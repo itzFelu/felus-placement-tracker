@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier Prime', monospace;
+}
+#details{
+    border: 1px solid black;
+    padding: 0 10px 0 10px;
+    width: fit-content;
+}
+#details p{
+    font-style: italic;
+    font-size: small;
+    
+}
